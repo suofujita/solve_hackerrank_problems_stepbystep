@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7875124a-b64f-4cb4-97ec-47f7252350a5" name="Changes" comment="swap_case" />
+    <list default="true" id="7875124a-b64f-4cb4-97ec-47f7252350a5" name="Changes" comment="split and join">
+      <change afterPath="$PROJECT_DIR$/find_a_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_alignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/what_is_your_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "suofujita"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;suofujita&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/suofujita/solve_hackerrank_problems_stepbystep",
-    "accountId": "27730e1f-26b8-4b33-9e3e-b80683e21126"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/suofujita/solve_hackerrank_problems_stepbystep&quot;,
+    &quot;accountId&quot;: &quot;27730e1f-26b8-4b33-9e3e-b80683e21126&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -47,10 +54,16 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Finding_the_percentage.executor": "Run",
+    "Python.find_a_string.executor": "Run",
     "Python.lists.executor": "Run",
+    "Python.mutations.executor": "Run",
     "Python.nested_list.executor": "Run",
+    "Python.string_split_and_join.executor": "Run",
+    "Python.string_validators.executor": "Run",
     "Python.swap_case.executor": "Run",
+    "Python.text_alignment.executor": "Run",
     "Python.tuples.executor": "Run",
+    "Python.what_is_your_name.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -103,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756655225154</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="split and join">
+      <option name="closed" value="true" />
+      <created>1756655668876</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756655668876</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +143,7 @@
     <MESSAGE value="lists" />
     <MESSAGE value="tuples" />
     <MESSAGE value="swap_case" />
-    <option name="LAST_COMMIT_MESSAGE" value="swap_case" />
+    <MESSAGE value="split and join" />
+    <option name="LAST_COMMIT_MESSAGE" value="split and join" />
   </component>
 </project>
